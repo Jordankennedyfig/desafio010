@@ -1,25 +1,37 @@
 @charset "UTF-8";
 
 body{
-    background-color: rgba(0, 0, 0, 0.466);
+    background-color: rgba(0, 0, 0, 0.226);
 }
 header{
     text-align: center;
 }
 nav {
-    background-color: rgba(0, 0, 0, 0.541);
+    background-color: rgba(0, 0, 0, 0.479);
     color: rgb(255, 255, 255);
     text-align: left;
     
 }
 nav > a {
+    text-decoration: none;
     color: #ffff;
     font-weight: normal;
     margin-right: 30px;
-    
+
 
  }
 
+ nav > a:hover {
+    text-decoration: underline;
+ }
+
 main {
-    background-color: rgba(8, 8, 8, 0.452);
+    background-color: rgba(8, 8, 8, 0.212);
+}
+footer { 
+    background-color: black;
+    color: white;
+    font-weight: normal;
+    text-align: center;
+    
 }
