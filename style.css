@@ -16,9 +16,10 @@ nav {
 }
 nav > a {
     text-decoration: none;
-    color: #ffff;
+    color: #000000;
     font-weight: normal;
     margin-right: 30px;
+    text-shadow: 1px 0px 0px rgba(0, 0, 0, 0.63);
 
 
  }
@@ -94,6 +95,11 @@ h1 {
 h2 {
     background-color:  rgba(13, 65, 65, 0.637);
     text-align: center;
+}
+h4{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 0px 1px 0px rgba(104, 104, 104, 0.007);
+    
 }
 p {
     margin: 15px;
