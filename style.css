@@ -101,7 +101,10 @@ p {
 }
 
 .titulo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial;
     background-color: transparent;
+    text-shadow: 2px 2px 0px rgb(0, 0, 0, 0.466);
+    
 
 }
    
