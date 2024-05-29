@@ -113,4 +113,26 @@ p {
     
 
 }
-   
+
+ul{
+    list-style-position: outside;
+
+}
+h3 {
+    background-color: rgba(13, 65, 65, 0.637);
+    text-align: center;
+    
+}
+.lista {
+    color: rgb(0, 0, 0);
+}
+
+
+ul {
+    text-align: center;
+    color: #000000;
+}
+#lista {
+    background-color: rgba(13, 65, 65, 0.37);
+}
+
