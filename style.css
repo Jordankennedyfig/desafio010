@@ -129,6 +129,7 @@ h3 {
 
 
 ul {
+    text-decoration: none;
     text-align: center;
     color: #000000;
 }
@@ -136,3 +137,7 @@ ul {
     background-color: rgba(13, 65, 65, 0.37);
 }
 
+img {
+    margin: 5px;
+    padding: 5px;
+}
