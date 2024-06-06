@@ -80,9 +80,10 @@ h2 {
     background-color:  rgba(13, 65, 65, 0.479);
     
 }
-h4{
+.um {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-shadow: 0px 1px 0px rgba(104, 104, 104, 0.007);
+    font-size: 16px;
     
 }
 p {
