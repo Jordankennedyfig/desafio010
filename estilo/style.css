@@ -1,13 +1,26 @@
 @charset "UTF-8";
 
+:root {
+    --cor0:#c5ebd6;
+    --cor1:#83e1ad;
+    --cor2: #3ddc54;
+    --cor3: #2fa866;
+
+
+}
+
 body {
     background-color: #c5ebd6; 
 }
+
 header {
     text-align: center;
     background-color: rgba(13, 65, 65, 0.473); 
   
     
+}
+main h1 {
+    color: rgb(0, 0, 0);
 }
 
 nav {
