@@ -29,13 +29,28 @@ body {
     font-family: var(--fonte-padrao);
 }
 
-header > h1 {
-    color: var(--cor4);    
-    font-family: var(--fonte-destaque);
-    text-align: center;
-  
-    
+header {
+    background-color: var(--cor4);
 }
+
+header > h1 {
+    color: rgb(255, 255, 255);    
+    font-family: var(--fonte-destaque);
+    text-align: center;    
+}
+
+header > p {
+    color: white;
+    text-align: center;
+   
+
+}
+
+main {
+    
+    background-color: rgb(255, 255, 255);
+}
+
 main h1 {
     color: var(--cor5);
     font-family: var(--fonte-android);
@@ -44,6 +59,14 @@ main h2 {
     color: var(--cor5);
     font-family: var(--fonte-android);
 }
+footer { 
+    background-color: var(--cor5);
+    color: white;
+    text-align: center;
+
+}
+    
+
 
 
 nav {
@@ -68,10 +91,7 @@ nav > a {
     background-color: rgba(83, 83, 83, 0.842);
  }
 
-main {
-    
-    background-color: rgba(13, 65, 65, 0.37);
-}
+
 
 div.video {
     position: relative;
@@ -93,13 +113,7 @@ div.video > iframe {
 
 }
 
-footer { 
-    background-color: black;
-    color: white;
-    font-weight: normal;
-    text-align: center;
-    
-}
+
 a {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-decoration: none;
@@ -108,26 +122,6 @@ a {
 footer > p {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: rgb(255, 255, 255);
-}
-
-
-.um {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-shadow: 0px 1px 0px rgba(104, 104, 104, 0.007);
-    font-size: 16px;
-    
-}
-p {
-    margin: 15px;
-    text-align: auto;
-}
-
-.titulo{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial;
-    background-color: transparent;
-    text-shadow: 2px 2px 0px rgb(0, 0, 0, 0.466);
-    
-
 }
 
 ul{
