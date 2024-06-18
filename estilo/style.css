@@ -29,6 +29,21 @@
     padding: 0px;
 }
 
+body {
+    background-color: var(--cor0);
+    font-family: var(--fonte-padrao);
+}
+
+header {
+    background-color: var(--cor4);
+}
+
+header > h1 {
+    color: rgb(255, 255, 255);    
+    font-family: var(--fonte-destaque);
+    text-align: center;    
+}
+
 header > p {
     color: white;
     text-align: center;
