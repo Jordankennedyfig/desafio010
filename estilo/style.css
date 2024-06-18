@@ -9,8 +9,6 @@
 
 }
 
-
-
 :root {
     --cor0:#c5ebd6;
     --cor1:#83e1ad;
@@ -64,15 +62,13 @@ nav > a {
     color: #000000;
     font-weight: normal;
     margin-right: 5px;
-    
-
- }
+}
 
  nav > a:hover {
     text-decoration: underline;
     color: rgba(238, 238, 238, 0.719);
     background-color: rgba(83, 83, 83, 0.842);
- }
+}
 
 main {
     
