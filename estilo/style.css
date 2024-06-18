@@ -24,19 +24,9 @@
     --fonte-android: 'Android', sans-serif;
 }
 
-body {
-    background-color: var(--cor0);
-    font-family: var(--fonte-padrao);
-}
-
-header {
-    background-color: var(--cor4);
-}
-
-header > h1 {
-    color: rgb(255, 255, 255);    
-    font-family: var(--fonte-destaque);
-    text-align: center;    
+* {
+    margin: 0px;
+    padding: 0px;
 }
 
 header > p {
