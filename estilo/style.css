@@ -91,6 +91,14 @@ main img {
     width: 100%;
 
 }
+
+main img.pequena {
+    width: 50%;
+    margin: auto;
+    display: block;
+
+}
+
 footer { 
     background-color: var(--cor5);
     color: white;
