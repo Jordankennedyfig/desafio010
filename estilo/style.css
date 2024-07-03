@@ -113,9 +113,9 @@ main img {
 }
 
 main img.pequena {
-    width: 50%;
-    margin: auto;
+    max-width: 350px;
     display: block;
+    margin: auto;
 
 }
 
