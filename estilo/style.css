@@ -33,12 +33,7 @@ body {
     font-family: var(--fonte-padrao);
 }
 
-main p {
-    margin: 15px 0px;
-    text-align: justify;
 
-
-}
 header {
    background-image: linear-gradient(to bottom, var(--cor3), var(--cor5));
     min-height: 150px;
@@ -112,6 +107,15 @@ main h1 {
 main h2 {
     color: var(--cor5);
     font-family: var(--fonte-android);
+
+}
+
+main p {
+    margin: 15px 0px;
+    text-align: justify;
+    text-indent: 30px;
+
+
 }
 
 main img {
