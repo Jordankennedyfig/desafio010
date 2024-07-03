@@ -33,8 +33,10 @@ body {
     font-family: var(--fonte-padrao);
 }
 
-p {
+main p {
     margin: 15px 0px;
+    text-align: justify;
+
 
 }
 header {
