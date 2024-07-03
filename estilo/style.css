@@ -35,12 +35,14 @@ body {
 
 
 header {
+
    background-image: linear-gradient(to bottom, var(--cor3), var(--cor5));
     min-height: 150px;
     text-align: center;
 }
 
 header > h1 {
+
     color: rgb(255, 255, 255);    
     font-family: var(--fonte-destaque);
     font-size: 3em;
@@ -51,6 +53,7 @@ header > h1 {
 }
 
 header > p {
+
     font-family: var(--fonte-padrao);
     color: white;
     font-size: 1.2em;
@@ -64,6 +67,7 @@ header > p {
 
 
 nav {
+
     background-color: var(--cor3);
     padding: 10px;   
     box-shadow: 0px 7px 7px rgb(0, 0, 0, 0.363);
@@ -72,6 +76,7 @@ nav {
     
 }
 nav > a {
+
     text-decoration: none;
     color: #ffffff;
     padding: 10px;
@@ -82,12 +87,14 @@ nav > a {
 }
 
  nav > a:hover {
+
     text-decoration: underline;
     color: var(--cor5);
     background-color: var(--cor2);
 }
 
 main {
+
     min-width: 300px;
     max-width: 1000px;
     margin: auto;
@@ -100,11 +107,13 @@ main {
 }
 
 main h1 {
+
     color: var(--cor5);
     font-family: var(--fonte-android);
 }
 
 main h2 {
+
     color: var(--cor4);
     font-family: var(--fonte-android);
     font-size: 1.3em;
@@ -114,6 +123,7 @@ main h2 {
 }
 
 main p {
+
     margin: 15px 0px;
     text-align: justify;
     text-indent: 30px;
@@ -140,18 +150,20 @@ main a {
     padding: 2px 6px;
 }
 main a:hover {
-    
+
     text-align: underline;
     color: var(--cor4);
 }
 
 
 main img {
+
     width: 100%;
 
 }
 
 main img.pequena {
+
     max-width: 350px;
     display: block;
     margin: auto;
@@ -159,6 +171,7 @@ main img.pequena {
 }
 
 footer { 
+
     background-color: var(--cor5);
     color: white;
     text-align: center;
@@ -166,6 +179,7 @@ footer {
 }
 
 div.video {
+
     position: relative;
     background-color: black;
     height: 0px;
@@ -177,6 +191,7 @@ div.video {
 }
 
 div.video > iframe {
+
     position: absolute;
     top: 5%;
     left: 5%;
@@ -187,36 +202,43 @@ div.video > iframe {
 
 
 a {
+
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-decoration: none;
     color: rgb(42, 90, 129);
 }
 footer > p {
+
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: rgb(255, 255, 255);
 }
 
 ul{
+
     list-style-position: outside;
 
 }
 h3 {
+
     background-color: rgba(13, 65, 65, 0.637);
     text-align: center;
     
 }
 .lista {
+
     color: rgb(0, 0, 0);
 }
 
 
 ul {
+
     text-decoration: none;
     color: #000000;
 }
 
 
 img {
+    
     margin: 5px;
     padding: 5px;
 }
