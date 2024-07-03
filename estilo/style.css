@@ -120,12 +120,25 @@ main p {
 
 
 }
+
+
 main strong {
     color: var(--cor4);
     font-weight: bold;
+}
+
+main a {
+    text-decoration: none;
+    font-size: bold;
+    color: var(--cor5);
     background-color: var(--cor1);
     padding: 2px 6px;
 }
+main a:hover {
+    text-align: underline;
+    color: var(--cor4);
+}
+
 
 main img {
     width: 100%;
