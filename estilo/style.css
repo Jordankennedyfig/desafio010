@@ -228,9 +228,10 @@ footer a:hover {
 
 }
 
-h3 {
+aside > h3 {
 
-    background-color: rgba(13, 65, 65, 0.637);
+    background-color: var(--cor4);
+    color: white;
     text-align: center;
     
 }
