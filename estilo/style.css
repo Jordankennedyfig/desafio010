@@ -216,6 +216,9 @@ footer{
 }
 
 footer a {
+    color: white;
+    font-weight: bolder;
+    text-decoration: none;
 
 }
 
