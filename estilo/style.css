@@ -170,30 +170,6 @@ main img.pequena {
 
 }
 
-
-div.video {
-
-    position: relative;
-    background-color: black;
-    height: 0px;
-    margin-left: -20px;
-    margin-right: -20px;
-    margin-bottom: 15px;
-    padding-bottom: 59%;
-
-}
-
-div.video > iframe {
-
-    position: absolute;
-    top: 5%;
-    left: 5%;
-    width: 90%;
-    height: 90%;
-
-}
-
-
 aside {
     background-color: var(--cor1);
     padding: 10px;
@@ -245,3 +221,24 @@ img {
     padding: 5px;
 }
 
+div.video {
+
+    position: relative;
+    background-color: black;
+    height: 0px;
+    margin-left: -20px;
+    margin-right: -20px;
+    margin-bottom: 15px;
+    padding-bottom: 59%;
+
+}
+
+div.video > iframe {
+
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    width: 90%;
+    height: 90%;
+
+}
