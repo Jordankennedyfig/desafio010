@@ -170,25 +170,6 @@ main img.pequena {
 
 }
 
-aside {
-    background-color: var(--cor1);
-    padding: 10px;
-    border-radius: 10px;
-}
-
-aside ul {
-
-    list-style-position: inside;
-    columns: 2;
-}
-
-footer { 
-
-    background-color: var(--cor5);
-    color: white;
-    text-align: center;
-
-}
 
 div.video {
 
@@ -213,12 +194,19 @@ div.video > iframe {
 }
 
 
-a {
-
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-decoration: none;
-    color: rgb(42, 90, 129);
+aside {
+    background-color: var(--cor1);
+    padding: 10px;
+    border-radius: 10px;
 }
+
+aside ul {
+
+    list-style-position: inside;
+    columns: 2;
+}
+
+
 footer{
     background-color: var(--cor5);
     color: rgb(255, 255, 255);
