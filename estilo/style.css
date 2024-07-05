@@ -177,6 +177,7 @@ main img.pequena {
 }
 
 aside {
+
     background-color: var(--cor1);
     padding: 10px;
     border-radius: 10px;
@@ -184,6 +185,7 @@ aside {
 }
 
 aside ul {
+
     list-style-type: '\2714\00A0\00A0';
     list-style-position: inside;
     columns: 2;
@@ -192,6 +194,7 @@ aside ul {
 
 
 footer{
+
     background-color: var(--cor5);
     color: rgb(255, 255, 255);
     text-align: center;
@@ -200,12 +203,14 @@ footer{
 }
 
 footer a {
+
     color: white;
     font-weight: bolder;
     text-decoration: none;
 
 }
 footer a:hover {
+    
     text-decoration: underline;
     color: var(--cor1);
 
