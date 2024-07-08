@@ -55,6 +55,7 @@ header > h1 {
     padding-top: 40px;
     margin-bottom: 20px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.473);
+    font-weight: normal;
       
 }
 
@@ -125,6 +126,7 @@ main h2 {
     font-size: 1.3em;
     background-image: linear-gradient(to right, var(--cor1), transparent);
     text-indent: 8px;
+    font-weight: normal;
 
 }
 
@@ -240,7 +242,7 @@ div.video {
     margin-left: -20px;
     margin-right: -20px;
     margin-bottom: 15px;
-    padding-bottom: 59%;
+    padding-bottom: 56%;
 
 }
 
